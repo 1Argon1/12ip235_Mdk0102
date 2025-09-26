@@ -1,1 +1,1 @@
-<p>Привет</p>
+<center><p>Привет</p></center></center>
